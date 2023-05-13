@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import SideNavbar from './sideNavBar/sidebar';
-import Sidebar from './responsiveSidebar/sidebarmain';
+import SideNavbar from './Navbars/sideNavBar/sidebar';
+import Sidebar from './Navbars/responsiveSidebar/sidebarmain';
 
 function App() {
   return (
